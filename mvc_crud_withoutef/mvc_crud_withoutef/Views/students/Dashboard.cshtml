@@ -1,0 +1,9 @@
+﻿@model mvc_crud_withoutef.Models.studentmodel
+
+@{
+    ViewBag.Title = "Welcome";
+}
+@if (Session["email"] != null)
+{
+    <h2>Welcome @Session["email"].ToString() </h2>
+}
