@@ -84,10 +84,11 @@ namespace mvc_crud_withoutef.Controllers
 
         //public ActionResult Details(int id)
         //{
-        //     studentdbHandler db = new studentdbHandler();
-        //     if (db.Deletestud(id))
-        //         return View(db.Getstudlist().Find(itemmodel => itemmodel.Id == id));
-        //} [HttpGet]
+        //    studentdbHandler db = new studentdbHandler();
+        //    if (db.Deletestud(id))
+        //        return View(db.Getstudlist().Find(itemmodel => itemmodel.Id == id));
+        //}
+        [HttpGet]
         public ActionResult Login()
         {
             return View();
@@ -119,6 +120,20 @@ namespace mvc_crud_withoutef.Controllers
 
         public ActionResult Dashboard()
         {
+            string constr = ConfigurationManager.ConnectionStrings["constudent"].ToString();
+            SqlConnection con = new SqlConnection(constr);
+            string qr = "select  firstname,lastname,mobile,gender from student_info where email='" + Session["email"] + "' ";
+            SqlDataAdapter da = new SqlDataAdapter(qr, con);
+            DataSet ds = new DataSet();
+            da.Fill(ds,"student_info");
+            foreach(DataRow dr in ds.Tables["student_info"].Rows)
+            {
+                ViewData["fn"] = dr["firstname"].ToString();
+                ViewData["ln"] = dr["lastname"].ToString();
+                ViewData["mob"] = dr["mobile"].ToString();
+                ViewData["gen"] = dr["gender"].ToString();
+
+            }
             return View();
         }
         public ActionResult Logout()

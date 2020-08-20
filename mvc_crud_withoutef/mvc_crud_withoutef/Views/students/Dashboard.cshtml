@@ -1,5 +1,4 @@
 ﻿@model mvc_crud_withoutef.Models.studentmodel
-
 @{
     ViewBag.Title = "Welcome";
 }
@@ -7,3 +6,9 @@
 {
     <h2>Welcome @Session["email"].ToString() </h2>
 }
+
+@ViewData["fn"].ToString()<br />
+@ViewData["ln"].ToString()<br />
+@ViewData["mob"].ToString()<br />
+@ViewData["gen"].ToString()<br />
+

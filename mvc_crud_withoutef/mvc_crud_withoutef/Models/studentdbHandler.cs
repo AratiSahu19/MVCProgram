@@ -41,7 +41,7 @@ namespace mvc_crud_withoutef.Models
         {
             connection();
             List<studentmodel> iList = new List<studentmodel>();
-            string query = "SELECT Id,firstname,lastname,mobile,gender,dob,caddress,paddress,stream,course,email,status FROM student_info";
+            string query = "SELECT Id,firstname,lastname,mobile,gender,dob,caddress,paddress,stream,course,email,pass,photo,status FROM student_info";
             SqlCommand cmd = new SqlCommand(query, con);
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
@@ -64,7 +64,10 @@ namespace mvc_crud_withoutef.Models
                    stream = Convert.ToString(dr["stream"]),
                course = Convert.ToString(dr["course"]),
                    email = Convert.ToString(dr["email"]),
-                   status = Convert.ToString(dr["status"]),
+                   password=Convert.ToString(dr["pass"]),
+
+                   photo=Convert.ToString(dr["photo"]),
+                   status = Convert.ToBoolean(dr["status"]),
 
                 });
             }

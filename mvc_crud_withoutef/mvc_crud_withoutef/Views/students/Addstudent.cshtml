@@ -116,8 +116,21 @@
         <div class="form-group">
             @Html.LabelFor(model => model.status, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                 @Html.EditorFor(model => model.status, new { htmlAttributes = new { @class = "form-control" } })
-                
+              Active   @Html.CheckBoxFor(model => model.status, new { htmlAttributes = new { @class = "form-control" } })
+               @*<input type="checkbox" id="checkbox1" onclick="status(this)" value="@Model.status " /> status
+                <script type="text/javascript">
+                    function status(check_box) {
+
+                        var val = document.getElementById("checkbox1");
+                        if (check_box.checked)
+
+                            val.setAttribute("type", "Active")
+                        else
+                            val.setAttribute("type", "Notactive");
+                    }
+
+
+                </script>*@
                 @Html.ValidationMessageFor(model => model.status, "", new { @class = "text-danger" })
             </div>
         </div>

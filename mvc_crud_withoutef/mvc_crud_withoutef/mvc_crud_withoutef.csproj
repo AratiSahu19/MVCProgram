@@ -169,8 +169,8 @@
     <Content Include="Views\students\getlist.cshtml" />
     <Content Include="Views\students\Edit.cshtml" />
     <Content Include="Views\students\Delete.cshtml" />
-    <Content Include="Views\students\Dashboard.cshtml" />
     <Content Include="Views\students\Login.cshtml" />
+    <Content Include="Views\students\Dashboard.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
