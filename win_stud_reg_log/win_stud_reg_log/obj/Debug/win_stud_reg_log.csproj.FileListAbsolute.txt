@@ -1,0 +1,11 @@
+E:\arati\win_stud_reg_log\win_stud_reg_log\bin\Debug\win_stud_reg_log.exe.config
+E:\arati\win_stud_reg_log\win_stud_reg_log\bin\Debug\win_stud_reg_log.exe
+E:\arati\win_stud_reg_log\win_stud_reg_log\bin\Debug\win_stud_reg_log.pdb
+E:\arati\win_stud_reg_log\win_stud_reg_log\obj\Debug\win_stud_reg_log.csprojAssemblyReference.cache
+E:\arati\win_stud_reg_log\win_stud_reg_log\obj\Debug\win_stud_reg_log.Form1.resources
+E:\arati\win_stud_reg_log\win_stud_reg_log\obj\Debug\win_stud_reg_log.Properties.Resources.resources
+E:\arati\win_stud_reg_log\win_stud_reg_log\obj\Debug\win_stud_reg_log.csproj.GenerateResource.cache
+E:\arati\win_stud_reg_log\win_stud_reg_log\obj\Debug\win_stud_reg_log.exe
+E:\arati\win_stud_reg_log\win_stud_reg_log\obj\Debug\win_stud_reg_log.pdb
+E:\arati\win_stud_reg_log\win_stud_reg_log\obj\Debug\win_stud_reg_log.Login.resources
+E:\arati\win_stud_reg_log\win_stud_reg_log\obj\Debug\win_stud_reg_log.studform.resources
