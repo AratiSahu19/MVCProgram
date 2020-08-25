@@ -31,7 +31,7 @@ namespace mvc_crud_withoutef.Models
         [Required(ErrorMessage = "permanent Address required")]
         public string paddress { get; set; }
         [Required(ErrorMessage = "stream required")]
-        public string stream { get; set; }
+        public Stream stream { get; set; }
         [Required(ErrorMessage = "course required")]
         public string course { get; set; }
         [Required(ErrorMessage = "email_id required")]
@@ -43,5 +43,12 @@ namespace mvc_crud_withoutef.Models
         public string confirm_password { get; set; }
         public string photo { get; set; }
         public bool status { get; set; }
+    }
+    public enum Stream
+    {
+        Electronics,
+        Electrical,
+        Mechanical,
+        Computer_Science,
     }
 }

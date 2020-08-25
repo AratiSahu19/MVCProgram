@@ -22,7 +22,17 @@ namespace mvc_crud_withoutef.Models
         public bool InsertStudent(studentmodel iList)
         {
             connection();
-            string qr = "insert into student_info values('" + iList.firstname + "','" + iList.lastname + "','"+iList.mobile+"','"+iList.gender+"','"+iList.dob+ "','" + iList.caddress + "','" + iList.paddress + "','" + iList.stream + "','" + iList.course + "','" + iList.email + "','" + iList.password + "','" + iList.confirm_password + "','" + iList.photo + "','" + iList.status + "')";
+            string s = null;
+            if (iList.status==true)
+            {
+               s = "Active";
+
+            }
+            else
+            {
+                s = "Not Active";
+            }
+            string qr = "insert into student_info values('" + iList.firstname + "','" + iList.lastname + "','"+iList.mobile+"','"+iList.gender+"','"+iList.dob+ "','" + iList.caddress + "','" + iList.paddress + "','" + iList.stream + "','" + iList.course + "','" + iList.email + "','" + iList.password + "','" + iList.confirm_password + "','" + s + "','" + iList.photo + "')";
             con.Open();
             SqlCommand cmd = new SqlCommand(qr, con);
             int i = cmd.ExecuteNonQuery();
@@ -61,13 +71,14 @@ namespace mvc_crud_withoutef.Models
                     dob = Convert.ToString(dr["dob"]),
                     caddress = Convert.ToString(dr["caddress"]),
                     paddress = Convert.ToString(dr["paddress"]),
-                   stream = Convert.ToString(dr["stream"]),
-               course = Convert.ToString(dr["course"]),
+                    stream =(Stream) dr["stream"],
+                    course = Convert.ToString(dr["course"]),
                    email = Convert.ToString(dr["email"]),
                    password=Convert.ToString(dr["pass"]),
 
-                   photo=Convert.ToString(dr["photo"]),
+                  
                    status = Convert.ToBoolean(dr["status"]),
+                    photo = Convert.ToString(dr["photo"])
 
                 });
             }
