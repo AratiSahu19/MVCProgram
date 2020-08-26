@@ -1,0 +1,13 @@
+E:\practice .NET\addition _of _two _no\addition _of _two _no\bin\Debug\netcoreapp3.1\addition _of _two _no.exe
+E:\practice .NET\addition _of _two _no\addition _of _two _no\bin\Debug\netcoreapp3.1\addition _of _two _no.deps.json
+E:\practice .NET\addition _of _two _no\addition _of _two _no\bin\Debug\netcoreapp3.1\addition _of _two _no.runtimeconfig.json
+E:\practice .NET\addition _of _two _no\addition _of _two _no\bin\Debug\netcoreapp3.1\addition _of _two _no.runtimeconfig.dev.json
+E:\practice .NET\addition _of _two _no\addition _of _two _no\bin\Debug\netcoreapp3.1\addition _of _two _no.dll
+E:\practice .NET\addition _of _two _no\addition _of _two _no\bin\Debug\netcoreapp3.1\addition _of _two _no.pdb
+E:\practice .NET\addition _of _two _no\addition _of _two _no\obj\Debug\netcoreapp3.1\addition _of _two _no.AssemblyInfoInputs.cache
+E:\practice .NET\addition _of _two _no\addition _of _two _no\obj\Debug\netcoreapp3.1\addition _of _two _no.AssemblyInfo.cs
+E:\practice .NET\addition _of _two _no\addition _of _two _no\obj\Debug\netcoreapp3.1\addition _of _two _no.csproj.CoreCompileInputs.cache
+E:\practice .NET\addition _of _two _no\addition _of _two _no\obj\Debug\netcoreapp3.1\addition _of _two _no.dll
+E:\practice .NET\addition _of _two _no\addition _of _two _no\obj\Debug\netcoreapp3.1\addition _of _two _no.pdb
+E:\practice .NET\addition _of _two _no\addition _of _two _no\obj\Debug\netcoreapp3.1\addition _of _two _no.genruntimeconfig.cache
+E:\practice .NET\addition _of _two _no\addition _of _two _no\obj\Debug\netcoreapp3.1\addition _of _two _no.csprojAssemblyReference.cache
