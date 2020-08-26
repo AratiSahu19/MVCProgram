@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "53HPCnApLk4TDvrGKzOHU37aVVGRhHVINpyCHu1Un7KwclwBQ0P7pZah1utFItNDO4HojXru35CHI9GSRMs2eg==",
+  "success": true,
+  "projectFilePath": "E:\\practice .NET\\stringprintcsharp\\stringprintcsharp\\stringprintcsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

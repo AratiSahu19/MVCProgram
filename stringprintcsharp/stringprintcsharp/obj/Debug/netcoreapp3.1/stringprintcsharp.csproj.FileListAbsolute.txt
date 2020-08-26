@@ -1,0 +1,13 @@
+E:\practice .NET\stringprintcsharp\stringprintcsharp\bin\Debug\netcoreapp3.1\stringprintcsharp.exe
+E:\practice .NET\stringprintcsharp\stringprintcsharp\bin\Debug\netcoreapp3.1\stringprintcsharp.deps.json
+E:\practice .NET\stringprintcsharp\stringprintcsharp\bin\Debug\netcoreapp3.1\stringprintcsharp.runtimeconfig.json
+E:\practice .NET\stringprintcsharp\stringprintcsharp\bin\Debug\netcoreapp3.1\stringprintcsharp.runtimeconfig.dev.json
+E:\practice .NET\stringprintcsharp\stringprintcsharp\bin\Debug\netcoreapp3.1\stringprintcsharp.dll
+E:\practice .NET\stringprintcsharp\stringprintcsharp\bin\Debug\netcoreapp3.1\stringprintcsharp.pdb
+E:\practice .NET\stringprintcsharp\stringprintcsharp\obj\Debug\netcoreapp3.1\stringprintcsharp.csprojAssemblyReference.cache
+E:\practice .NET\stringprintcsharp\stringprintcsharp\obj\Debug\netcoreapp3.1\stringprintcsharp.AssemblyInfoInputs.cache
+E:\practice .NET\stringprintcsharp\stringprintcsharp\obj\Debug\netcoreapp3.1\stringprintcsharp.AssemblyInfo.cs
+E:\practice .NET\stringprintcsharp\stringprintcsharp\obj\Debug\netcoreapp3.1\stringprintcsharp.csproj.CoreCompileInputs.cache
+E:\practice .NET\stringprintcsharp\stringprintcsharp\obj\Debug\netcoreapp3.1\stringprintcsharp.dll
+E:\practice .NET\stringprintcsharp\stringprintcsharp\obj\Debug\netcoreapp3.1\stringprintcsharp.pdb
+E:\practice .NET\stringprintcsharp\stringprintcsharp\obj\Debug\netcoreapp3.1\stringprintcsharp.genruntimeconfig.cache
