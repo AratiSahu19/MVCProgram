@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masterpage.master.cs" Inherits="Employeeproject.masterpage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style2 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+   <form id="form1" runat="server">
+    <header class="auto-style2"><strong>Mk Placement and Education Services<br />
+        Nagpur<br />
+        <br />
+        </strong> 
+        <asp:LinkButton ID="LinkButton1" runat="server" PostBackUrl="~/home.aspx">Home</asp:LinkButton>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:LinkButton ID="LinkButton2" runat="server" PostBackUrl="~/Signup.aspx">SignUp</asp:LinkButton>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:LinkButton ID="LinkButton3" runat="server" PostBackUrl="~/login.aspx">Login</asp:LinkButton>
+        </header>
+    </br>
+    </br>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+    </div>
+       <br />
+       <br />
+
+    <footer>copyright@mk placement2020</footer>
+         
+        
+    </form>
+</body>
+</html>
