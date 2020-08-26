@@ -121,7 +121,7 @@ namespace Student_registeration
                     try
                     {
                       //  con.Open();
-                        string qr1 = "insert into student_info values ('" + fname + "','" + lname + "','" + mobile + "','" + gender + "','" + dob + "','" + c_address + "','" + p_address + "','" + stream + "','" + course + "','" + email + "','" + pass + "','" + c_pass + "','" + status + "','" + photo + "')";
+                        string qr1 = "insert into student_info values ('" + fname + "','" + lname + "','" + mobile + "','" + gender + "','" + dob + "','" + c_address + "','" + p_address + "','" + stream + "','" + course + "','" + email + "','" + pass + "','" + photo + "','" + status + "')";
                         SqlCommand cmd1 = new SqlCommand(qr1, con);
                         cmd1.ExecuteNonQuery();
                         Label1.Text = "registration successful";

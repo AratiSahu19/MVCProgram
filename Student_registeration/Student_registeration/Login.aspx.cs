@@ -30,7 +30,7 @@ namespace Student_registeration
             try
                 {
                     con.Open();
-                    string qr = "select count(*) from student_info where email='" + em + "' and pass = '" + password + "'";
+                    string qr = "select count(*) from student_info where email='" + em + "' and password = '" + password + "'";
                     SqlCommand cmd = new SqlCommand(qr, con);
                     int res = Convert.ToInt32(cmd.ExecuteScalar());
                     if (res == 1)
