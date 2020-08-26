@@ -1,0 +1,13 @@
+E:\practice .NET\primeno\primeno\bin\Debug\netcoreapp3.1\primeno.exe
+E:\practice .NET\primeno\primeno\bin\Debug\netcoreapp3.1\primeno.deps.json
+E:\practice .NET\primeno\primeno\bin\Debug\netcoreapp3.1\primeno.runtimeconfig.json
+E:\practice .NET\primeno\primeno\bin\Debug\netcoreapp3.1\primeno.runtimeconfig.dev.json
+E:\practice .NET\primeno\primeno\bin\Debug\netcoreapp3.1\primeno.dll
+E:\practice .NET\primeno\primeno\bin\Debug\netcoreapp3.1\primeno.pdb
+E:\practice .NET\primeno\primeno\obj\Debug\netcoreapp3.1\primeno.csprojAssemblyReference.cache
+E:\practice .NET\primeno\primeno\obj\Debug\netcoreapp3.1\primeno.AssemblyInfoInputs.cache
+E:\practice .NET\primeno\primeno\obj\Debug\netcoreapp3.1\primeno.AssemblyInfo.cs
+E:\practice .NET\primeno\primeno\obj\Debug\netcoreapp3.1\primeno.csproj.CoreCompileInputs.cache
+E:\practice .NET\primeno\primeno\obj\Debug\netcoreapp3.1\primeno.dll
+E:\practice .NET\primeno\primeno\obj\Debug\netcoreapp3.1\primeno.pdb
+E:\practice .NET\primeno\primeno\obj\Debug\netcoreapp3.1\primeno.genruntimeconfig.cache
