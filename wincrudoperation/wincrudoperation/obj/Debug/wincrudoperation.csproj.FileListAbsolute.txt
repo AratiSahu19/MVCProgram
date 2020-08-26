@@ -1,0 +1,10 @@
+E:\practice .NET\wincrudoperation\wincrudoperation\bin\Debug\wincrudoperation.exe.config
+E:\practice .NET\wincrudoperation\wincrudoperation\bin\Debug\wincrudoperation.exe
+E:\practice .NET\wincrudoperation\wincrudoperation\bin\Debug\wincrudoperation.pdb
+E:\practice .NET\wincrudoperation\wincrudoperation\obj\Debug\wincrudoperation.csprojAssemblyReference.cache
+E:\practice .NET\wincrudoperation\wincrudoperation\obj\Debug\wincrudoperation.Form1.resources
+E:\practice .NET\wincrudoperation\wincrudoperation\obj\Debug\wincrudoperation.Properties.Resources.resources
+E:\practice .NET\wincrudoperation\wincrudoperation\obj\Debug\wincrudoperation.csproj.GenerateResource.cache
+E:\practice .NET\wincrudoperation\wincrudoperation\obj\Debug\wincrudoperation.csproj.CoreCompileInputs.cache
+E:\practice .NET\wincrudoperation\wincrudoperation\obj\Debug\wincrudoperation.exe
+E:\practice .NET\wincrudoperation\wincrudoperation\obj\Debug\wincrudoperation.pdb
