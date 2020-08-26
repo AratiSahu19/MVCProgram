@@ -1,0 +1,13 @@
+E:\practice .NET\hashtablecoll\hashtablecoll\bin\Debug\netcoreapp3.1\hashtablecoll.exe
+E:\practice .NET\hashtablecoll\hashtablecoll\bin\Debug\netcoreapp3.1\hashtablecoll.deps.json
+E:\practice .NET\hashtablecoll\hashtablecoll\bin\Debug\netcoreapp3.1\hashtablecoll.runtimeconfig.json
+E:\practice .NET\hashtablecoll\hashtablecoll\bin\Debug\netcoreapp3.1\hashtablecoll.runtimeconfig.dev.json
+E:\practice .NET\hashtablecoll\hashtablecoll\bin\Debug\netcoreapp3.1\hashtablecoll.dll
+E:\practice .NET\hashtablecoll\hashtablecoll\bin\Debug\netcoreapp3.1\hashtablecoll.pdb
+E:\practice .NET\hashtablecoll\hashtablecoll\obj\Debug\netcoreapp3.1\hashtablecoll.csprojAssemblyReference.cache
+E:\practice .NET\hashtablecoll\hashtablecoll\obj\Debug\netcoreapp3.1\hashtablecoll.AssemblyInfoInputs.cache
+E:\practice .NET\hashtablecoll\hashtablecoll\obj\Debug\netcoreapp3.1\hashtablecoll.AssemblyInfo.cs
+E:\practice .NET\hashtablecoll\hashtablecoll\obj\Debug\netcoreapp3.1\hashtablecoll.csproj.CoreCompileInputs.cache
+E:\practice .NET\hashtablecoll\hashtablecoll\obj\Debug\netcoreapp3.1\hashtablecoll.dll
+E:\practice .NET\hashtablecoll\hashtablecoll\obj\Debug\netcoreapp3.1\hashtablecoll.pdb
+E:\practice .NET\hashtablecoll\hashtablecoll\obj\Debug\netcoreapp3.1\hashtablecoll.genruntimeconfig.cache

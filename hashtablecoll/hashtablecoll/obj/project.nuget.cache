@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OE133V3B6JZ5X85D4uosgWbQ06r4ap7GTsG7DRtYK3bhOwt2FAH6yadUILbT4WIEafivKDK85CHqFjd6Vs32zg==",
+  "success": true,
+  "projectFilePath": "E:\\practice .NET\\hashtablecoll\\hashtablecoll\\hashtablecoll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
