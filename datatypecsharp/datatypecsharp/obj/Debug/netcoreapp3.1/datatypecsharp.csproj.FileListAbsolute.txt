@@ -1,0 +1,13 @@
+E:\practice .NET\datatypecsharp\datatypecsharp\bin\Debug\netcoreapp3.1\datatypecsharp.exe
+E:\practice .NET\datatypecsharp\datatypecsharp\bin\Debug\netcoreapp3.1\datatypecsharp.deps.json
+E:\practice .NET\datatypecsharp\datatypecsharp\bin\Debug\netcoreapp3.1\datatypecsharp.runtimeconfig.json
+E:\practice .NET\datatypecsharp\datatypecsharp\bin\Debug\netcoreapp3.1\datatypecsharp.runtimeconfig.dev.json
+E:\practice .NET\datatypecsharp\datatypecsharp\bin\Debug\netcoreapp3.1\datatypecsharp.dll
+E:\practice .NET\datatypecsharp\datatypecsharp\bin\Debug\netcoreapp3.1\datatypecsharp.pdb
+E:\practice .NET\datatypecsharp\datatypecsharp\obj\Debug\netcoreapp3.1\datatypecsharp.csprojAssemblyReference.cache
+E:\practice .NET\datatypecsharp\datatypecsharp\obj\Debug\netcoreapp3.1\datatypecsharp.AssemblyInfoInputs.cache
+E:\practice .NET\datatypecsharp\datatypecsharp\obj\Debug\netcoreapp3.1\datatypecsharp.AssemblyInfo.cs
+E:\practice .NET\datatypecsharp\datatypecsharp\obj\Debug\netcoreapp3.1\datatypecsharp.csproj.CoreCompileInputs.cache
+E:\practice .NET\datatypecsharp\datatypecsharp\obj\Debug\netcoreapp3.1\datatypecsharp.dll
+E:\practice .NET\datatypecsharp\datatypecsharp\obj\Debug\netcoreapp3.1\datatypecsharp.pdb
+E:\practice .NET\datatypecsharp\datatypecsharp\obj\Debug\netcoreapp3.1\datatypecsharp.genruntimeconfig.cache
