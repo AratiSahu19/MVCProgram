@@ -1,0 +1,13 @@
+F:\practice .net\readonly_const\readonly_const\bin\Debug\netcoreapp3.1\readonly_const.exe
+F:\practice .net\readonly_const\readonly_const\bin\Debug\netcoreapp3.1\readonly_const.deps.json
+F:\practice .net\readonly_const\readonly_const\bin\Debug\netcoreapp3.1\readonly_const.runtimeconfig.json
+F:\practice .net\readonly_const\readonly_const\bin\Debug\netcoreapp3.1\readonly_const.runtimeconfig.dev.json
+F:\practice .net\readonly_const\readonly_const\bin\Debug\netcoreapp3.1\readonly_const.dll
+F:\practice .net\readonly_const\readonly_const\bin\Debug\netcoreapp3.1\readonly_const.pdb
+F:\practice .net\readonly_const\readonly_const\obj\Debug\netcoreapp3.1\readonly_const.csprojAssemblyReference.cache
+F:\practice .net\readonly_const\readonly_const\obj\Debug\netcoreapp3.1\readonly_const.AssemblyInfoInputs.cache
+F:\practice .net\readonly_const\readonly_const\obj\Debug\netcoreapp3.1\readonly_const.AssemblyInfo.cs
+F:\practice .net\readonly_const\readonly_const\obj\Debug\netcoreapp3.1\readonly_const.csproj.CoreCompileInputs.cache
+F:\practice .net\readonly_const\readonly_const\obj\Debug\netcoreapp3.1\readonly_const.dll
+F:\practice .net\readonly_const\readonly_const\obj\Debug\netcoreapp3.1\readonly_const.pdb
+F:\practice .net\readonly_const\readonly_const\obj\Debug\netcoreapp3.1\readonly_const.genruntimeconfig.cache
