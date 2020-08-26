@@ -1,0 +1,8 @@
+﻿@model mvc_Emp_Registration.Models.EmpModel
+@{
+    ViewBag.Title = "Welcome";
+}
+@if (Session["Email_Id"] != null)
+{
+    <h2>Welcome @Session["Email_Id"].ToString() </h2>
+}
