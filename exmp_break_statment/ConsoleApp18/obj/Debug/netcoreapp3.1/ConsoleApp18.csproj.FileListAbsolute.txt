@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.AssemblyInfo.cs
+F:\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.exe
+F:\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.deps.json
+F:\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.runtimeconfig.json
+F:\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.runtimeconfig.dev.json
+F:\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.dll
+F:\repos\ConsoleApp18\ConsoleApp18\bin\Debug\netcoreapp3.1\ConsoleApp18.pdb
+F:\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.csprojAssemblyReference.cache
+F:\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.AssemblyInfoInputs.cache
+F:\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.AssemblyInfo.cs
+F:\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.csproj.CoreCompileInputs.cache
+F:\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.dll
+F:\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.pdb
+F:\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.genruntimeconfig.cache
