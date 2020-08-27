@@ -1,0 +1,3 @@
+C:\Users\Lenovo\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ConsoleApp19\ConsoleApp19\obj\Debug\netcoreapp3.1\ConsoleApp19.AssemblyInfo.cs
