@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\ConsoleApp45.exe
+C:\Users\Lenovo\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\ConsoleApp45.deps.json
+C:\Users\Lenovo\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\ConsoleApp45.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\ConsoleApp45.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\ConsoleApp45.dll
+C:\Users\Lenovo\source\repos\ConsoleApp45\ConsoleApp45\bin\Debug\netcoreapp3.1\ConsoleApp45.pdb
+C:\Users\Lenovo\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.dll
+C:\Users\Lenovo\source\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.pdb
+F:\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.csprojAssemblyReference.cache
+F:\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.AssemblyInfoInputs.cache
+F:\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.AssemblyInfo.cs
+F:\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.csproj.CoreCompileInputs.cache
+F:\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.dll
+F:\repos\ConsoleApp45\ConsoleApp45\obj\Debug\netcoreapp3.1\ConsoleApp45.pdb
