@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HGQID5Pit+GylI17mfOQSMBcjLPh6Oiu5O0GpEOEUlrKMlUx29FtUXNi8/NiA7q6F5qRKdO9vjvYoJ10WlczuQ==",
+  "success": true,
+  "projectFilePath": "F:\\repos\\shiftbybits\\shiftbybits\\shiftbybits.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

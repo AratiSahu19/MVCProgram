@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\shiftbybits\shiftbybits\bin\Debug\netcoreapp3.1\shiftbybits.exe
+C:\Users\Lenovo\source\repos\shiftbybits\shiftbybits\bin\Debug\netcoreapp3.1\shiftbybits.deps.json
+C:\Users\Lenovo\source\repos\shiftbybits\shiftbybits\bin\Debug\netcoreapp3.1\shiftbybits.runtimeconfig.json
+C:\Users\Lenovo\source\repos\shiftbybits\shiftbybits\bin\Debug\netcoreapp3.1\shiftbybits.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\shiftbybits\shiftbybits\bin\Debug\netcoreapp3.1\shiftbybits.dll
+C:\Users\Lenovo\source\repos\shiftbybits\shiftbybits\bin\Debug\netcoreapp3.1\shiftbybits.pdb
+C:\Users\Lenovo\source\repos\shiftbybits\shiftbybits\obj\Debug\netcoreapp3.1\shiftbybits.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\shiftbybits\shiftbybits\obj\Debug\netcoreapp3.1\shiftbybits.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\shiftbybits\shiftbybits\obj\Debug\netcoreapp3.1\shiftbybits.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\shiftbybits\shiftbybits\obj\Debug\netcoreapp3.1\shiftbybits.dll
+C:\Users\Lenovo\source\repos\shiftbybits\shiftbybits\obj\Debug\netcoreapp3.1\shiftbybits.pdb
