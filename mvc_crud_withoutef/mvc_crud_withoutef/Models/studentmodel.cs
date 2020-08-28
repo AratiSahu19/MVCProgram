@@ -43,6 +43,7 @@ namespace mvc_crud_withoutef.Models
         public string confirm_password { get; set; }
         public string photo { get; set; }
         public bool status { get; set; }
+        public string streamp { get; set; }
     }
     public enum Stream
     {

@@ -23,10 +23,19 @@
                     <li>@Html.ActionLink("Home", "Index", "Home")</li>
                     <li>@Html.ActionLink("About", "About", "Home")</li>
                     <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
-                    <li>@Html.ActionLink("StudList", "getlist", "students")</li>
+                   
                     <li>@Html.ActionLink("Register", "Addstudent", "students")</li>
+                    @if (Session["email"] != null)
+                    {
+                        <li><font style="color:white">Welcome @Session["email"].ToString() </font></li>
+                        <li>@Html.ActionLink("StudList", "getlist", "students")</li>
+                        <li>@Html.ActionLink("Logout", "Logout", "students")</li>
+                    }
+                    else
+                    {
                     <li>@Html.ActionLink("Login", "Login", "students")</li>
-                    <li>@Html.ActionLink("Logout", "Logout", "students")</li>
+                    }
+
                 </ul>
                
             </div>

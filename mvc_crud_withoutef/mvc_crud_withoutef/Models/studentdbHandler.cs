@@ -32,7 +32,7 @@ namespace mvc_crud_withoutef.Models
             {
                 s = "Not Active";
             }
-            string qr = "insert into student_info values('" + iList.firstname + "','" + iList.lastname + "','"+iList.mobile+"','"+iList.gender+"','"+iList.dob+ "','" + iList.caddress + "','" + iList.paddress + "','" + iList.stream + "','" + iList.course + "','" + iList.email + "','" + iList.password + "','" + iList.confirm_password + "','" + s + "','" + iList.photo + "')";
+            string qr = "insert into student_info values('" + iList.firstname + "','" + iList.lastname + "','"+iList.mobile+"','"+iList.gender+"','"+iList.dob+ "','" + iList.caddress + "','" + iList.paddress + "','" + iList.stream + "','" + iList.course + "','" + iList.email + "','" + iList.password + "','" + iList.photo + "','" + s + "')";
             con.Open();
             SqlCommand cmd = new SqlCommand(qr, con);
             int i = cmd.ExecuteNonQuery();
@@ -51,7 +51,7 @@ namespace mvc_crud_withoutef.Models
         {
             connection();
             List<studentmodel> iList = new List<studentmodel>();
-            string query = "SELECT Id,firstname,lastname,mobile,gender,dob,caddress,paddress,stream,course,email,pass,photo,status FROM student_info";
+            string query = "SELECT Id,firstname,lastname,mobile,gender,dob,caddress,paddress,stream,course,email,password,photo,status FROM student_info";
             SqlCommand cmd = new SqlCommand(query, con);
             SqlDataAdapter da = new SqlDataAdapter(cmd);
             DataTable dt = new DataTable();
@@ -61,6 +61,17 @@ namespace mvc_crud_withoutef.Models
             con.Close();
             foreach (DataRow dr in dt.Rows)
             {
+                string Astatus = Convert.ToString(dr["status"]);
+                string s = null;
+                if(Astatus == "Active")
+                {
+                    s = "Active";
+
+                }
+                else if(Astatus== "Not Active")
+                {
+                    s = "Not Active";
+                }
                 iList.Add(new studentmodel
                 {
                     Id = Convert.ToInt32(dr["Id"]),
@@ -71,13 +82,13 @@ namespace mvc_crud_withoutef.Models
                     dob = Convert.ToString(dr["dob"]),
                     caddress = Convert.ToString(dr["caddress"]),
                     paddress = Convert.ToString(dr["paddress"]),
-                    stream =(Stream) dr["stream"],
+                    streamp =Convert.ToString(dr["stream"]),
                     course = Convert.ToString(dr["course"]),
                    email = Convert.ToString(dr["email"]),
-                   password=Convert.ToString(dr["pass"]),
+                   password=Convert.ToString(dr["password"]),
 
                   
-                   status = Convert.ToBoolean(dr["status"]),
+                  
                     photo = Convert.ToString(dr["photo"])
 
                 });

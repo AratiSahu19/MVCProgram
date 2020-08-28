@@ -99,7 +99,7 @@ namespace mvc_crud_withoutef.Controllers
         {
             string constr = ConfigurationManager.ConnectionStrings["constudent"].ToString();
             SqlConnection con = new SqlConnection(constr);
-            string qr = "select email , pass from student_info where email=@email and pass = @password";
+            string qr = "select email , password from student_info where email=@email and password = @password";
             con.Open();
             SqlCommand cmd = new SqlCommand(qr, con);
             cmd.Parameters.AddWithValue("@email", sm.email);
