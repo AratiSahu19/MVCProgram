@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+<Ad>
+<ImageUrl>Untitled.png</ImageUrl>
+<Impression>100</Impression>
+</Ad>
+<Ad>
+  <ImageUrl>lightning.png</ImageUrl>
+  <Impressions>200</Impressions>
+</Ad>
+  <Ad>
+  <ImageUrl>cloud.png</ImageUrl>
+    <Impressions>400</Impressions>
+  </Ad>
+</Advertisements>
+ 
