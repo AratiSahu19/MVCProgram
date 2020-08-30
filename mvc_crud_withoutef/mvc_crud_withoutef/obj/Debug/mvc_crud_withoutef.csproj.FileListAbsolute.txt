@@ -150,7 +150,6 @@ F:\gitprogram\MVCProgram\mvc_crud_withoutef\mvc_crud_withoutef\bin\System.Web.We
 F:\gitprogram\MVCProgram\mvc_crud_withoutef\mvc_crud_withoutef\bin\Newtonsoft.Json.xml
 F:\gitprogram\MVCProgram\mvc_crud_withoutef\mvc_crud_withoutef\bin\Antlr3.Runtime.pdb
 F:\gitprogram\MVCProgram\mvc_crud_withoutef\mvc_crud_withoutef\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\gitprogram\MVCProgram\mvc_crud_withoutef\mvc_crud_withoutef\obj\Debug\mvc_crud_withoutef.csprojAssemblyReference.cache
 F:\gitprogram\MVCProgram\mvc_crud_withoutef\mvc_crud_withoutef\obj\Debug\mvc_crud_withoutef.csproj.CoreCompileInputs.cache
 F:\gitprogram\MVCProgram\mvc_crud_withoutef\mvc_crud_withoutef\obj\Debug\mvc_crud_withoutef.csproj.CopyComplete
 F:\gitprogram\MVCProgram\mvc_crud_withoutef\mvc_crud_withoutef\obj\Debug\mvc_crud_withoutef.dll

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel;
 
 namespace mvc_crud_withoutef.Models
 {
@@ -10,7 +11,7 @@ namespace mvc_crud_withoutef.Models
     {
         public int Id { get; set; }
 
-        [Required (ErrorMessage ="First_Name required")]
+        [Required(ErrorMessage = "First_Name required")]
         public string firstname { get; set; }
 
 
@@ -41,9 +42,11 @@ namespace mvc_crud_withoutef.Models
 
         public string password { get; set; }
         public string confirm_password { get; set; }
+        [DisplayName("Upload Image")]
         public string photo { get; set; }
         public bool status { get; set; }
         public string streamp { get; set; }
+        public HttpPostedFileBase ImageFile {get;set;}
     }
     public enum Stream
     {
