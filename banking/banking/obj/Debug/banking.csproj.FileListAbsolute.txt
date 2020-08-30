@@ -1,0 +1,11 @@
+E:\utk\banking\banking\bin\Debug\banking.exe.config
+E:\utk\banking\banking\bin\Debug\banking.exe
+E:\utk\banking\banking\bin\Debug\banking.pdb
+E:\utk\banking\banking\bin\Debug\ut_library.dll
+E:\utk\banking\banking\bin\Debug\ut_library.pdb
+E:\utk\banking\banking\obj\Debug\banking.csprojAssemblyReference.cache
+E:\utk\banking\banking\obj\Debug\banking.Properties.Resources.resources
+E:\utk\banking\banking\obj\Debug\banking.csproj.GenerateResource.cache
+E:\utk\banking\banking\obj\Debug\banking.csproj.CopyComplete
+E:\utk\banking\banking\obj\Debug\banking.exe
+E:\utk\banking\banking\obj\Debug\banking.pdb
