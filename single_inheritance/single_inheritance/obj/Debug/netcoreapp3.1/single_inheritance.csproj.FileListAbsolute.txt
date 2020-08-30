@@ -1,0 +1,11 @@
+E:\utk\single_inheritance\single_inheritance\bin\Debug\netcoreapp3.1\single_inheritance.exe
+E:\utk\single_inheritance\single_inheritance\bin\Debug\netcoreapp3.1\single_inheritance.deps.json
+E:\utk\single_inheritance\single_inheritance\bin\Debug\netcoreapp3.1\single_inheritance.runtimeconfig.json
+E:\utk\single_inheritance\single_inheritance\bin\Debug\netcoreapp3.1\single_inheritance.runtimeconfig.dev.json
+E:\utk\single_inheritance\single_inheritance\bin\Debug\netcoreapp3.1\single_inheritance.dll
+E:\utk\single_inheritance\single_inheritance\bin\Debug\netcoreapp3.1\single_inheritance.pdb
+E:\utk\single_inheritance\single_inheritance\obj\Debug\netcoreapp3.1\single_inheritance.csprojAssemblyReference.cache
+E:\utk\single_inheritance\single_inheritance\obj\Debug\netcoreapp3.1\single_inheritance.AssemblyInfoInputs.cache
+E:\utk\single_inheritance\single_inheritance\obj\Debug\netcoreapp3.1\single_inheritance.AssemblyInfo.cs
+E:\utk\single_inheritance\single_inheritance\obj\Debug\netcoreapp3.1\single_inheritance.dll
+E:\utk\single_inheritance\single_inheritance\obj\Debug\netcoreapp3.1\single_inheritance.pdb
