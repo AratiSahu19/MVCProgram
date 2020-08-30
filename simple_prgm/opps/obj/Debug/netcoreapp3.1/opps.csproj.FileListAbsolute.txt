@@ -1,0 +1,11 @@
+E:\utk\opps\opps\bin\Debug\netcoreapp3.1\opps.exe
+E:\utk\opps\opps\bin\Debug\netcoreapp3.1\opps.deps.json
+E:\utk\opps\opps\bin\Debug\netcoreapp3.1\opps.runtimeconfig.json
+E:\utk\opps\opps\bin\Debug\netcoreapp3.1\opps.runtimeconfig.dev.json
+E:\utk\opps\opps\bin\Debug\netcoreapp3.1\opps.dll
+E:\utk\opps\opps\bin\Debug\netcoreapp3.1\opps.pdb
+E:\utk\opps\opps\obj\Debug\netcoreapp3.1\opps.csprojAssemblyReference.cache
+E:\utk\opps\opps\obj\Debug\netcoreapp3.1\opps.AssemblyInfoInputs.cache
+E:\utk\opps\opps\obj\Debug\netcoreapp3.1\opps.AssemblyInfo.cs
+E:\utk\opps\opps\obj\Debug\netcoreapp3.1\opps.dll
+E:\utk\opps\opps\obj\Debug\netcoreapp3.1\opps.pdb
