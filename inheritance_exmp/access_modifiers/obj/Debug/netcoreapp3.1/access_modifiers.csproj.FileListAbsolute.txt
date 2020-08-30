@@ -1,0 +1,11 @@
+E:\utk\access_modifiers\access_modifiers\bin\Debug\netcoreapp3.1\access_modifiers.exe
+E:\utk\access_modifiers\access_modifiers\bin\Debug\netcoreapp3.1\access_modifiers.deps.json
+E:\utk\access_modifiers\access_modifiers\bin\Debug\netcoreapp3.1\access_modifiers.runtimeconfig.json
+E:\utk\access_modifiers\access_modifiers\bin\Debug\netcoreapp3.1\access_modifiers.runtimeconfig.dev.json
+E:\utk\access_modifiers\access_modifiers\bin\Debug\netcoreapp3.1\access_modifiers.dll
+E:\utk\access_modifiers\access_modifiers\bin\Debug\netcoreapp3.1\access_modifiers.pdb
+E:\utk\access_modifiers\access_modifiers\obj\Debug\netcoreapp3.1\access_modifiers.csprojAssemblyReference.cache
+E:\utk\access_modifiers\access_modifiers\obj\Debug\netcoreapp3.1\access_modifiers.AssemblyInfoInputs.cache
+E:\utk\access_modifiers\access_modifiers\obj\Debug\netcoreapp3.1\access_modifiers.AssemblyInfo.cs
+E:\utk\access_modifiers\access_modifiers\obj\Debug\netcoreapp3.1\access_modifiers.dll
+E:\utk\access_modifiers\access_modifiers\obj\Debug\netcoreapp3.1\access_modifiers.pdb
