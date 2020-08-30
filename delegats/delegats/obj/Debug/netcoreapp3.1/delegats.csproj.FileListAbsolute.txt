@@ -1,0 +1,11 @@
+E:\utk\delegats\delegats\bin\Debug\netcoreapp3.1\delegats.exe
+E:\utk\delegats\delegats\bin\Debug\netcoreapp3.1\delegats.deps.json
+E:\utk\delegats\delegats\bin\Debug\netcoreapp3.1\delegats.runtimeconfig.json
+E:\utk\delegats\delegats\bin\Debug\netcoreapp3.1\delegats.runtimeconfig.dev.json
+E:\utk\delegats\delegats\bin\Debug\netcoreapp3.1\delegats.dll
+E:\utk\delegats\delegats\bin\Debug\netcoreapp3.1\delegats.pdb
+E:\utk\delegats\delegats\obj\Debug\netcoreapp3.1\delegats.csprojAssemblyReference.cache
+E:\utk\delegats\delegats\obj\Debug\netcoreapp3.1\delegats.AssemblyInfoInputs.cache
+E:\utk\delegats\delegats\obj\Debug\netcoreapp3.1\delegats.AssemblyInfo.cs
+E:\utk\delegats\delegats\obj\Debug\netcoreapp3.1\delegats.dll
+E:\utk\delegats\delegats\obj\Debug\netcoreapp3.1\delegats.pdb
