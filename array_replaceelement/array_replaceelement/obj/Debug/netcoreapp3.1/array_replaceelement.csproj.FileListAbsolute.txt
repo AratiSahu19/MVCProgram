@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\array_replaceelement\array_replaceelement\bin\Debug\netcoreapp3.1\array_replaceelement.exe
+C:\Users\admin\Desktop\pooja_C#.net\array_replaceelement\array_replaceelement\bin\Debug\netcoreapp3.1\array_replaceelement.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\array_replaceelement\array_replaceelement\bin\Debug\netcoreapp3.1\array_replaceelement.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\array_replaceelement\array_replaceelement\bin\Debug\netcoreapp3.1\array_replaceelement.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\array_replaceelement\array_replaceelement\bin\Debug\netcoreapp3.1\array_replaceelement.dll
+C:\Users\admin\Desktop\pooja_C#.net\array_replaceelement\array_replaceelement\bin\Debug\netcoreapp3.1\array_replaceelement.pdb
+C:\Users\admin\Desktop\pooja_C#.net\array_replaceelement\array_replaceelement\obj\Debug\netcoreapp3.1\array_replaceelement.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\array_replaceelement\array_replaceelement\obj\Debug\netcoreapp3.1\array_replaceelement.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\array_replaceelement\array_replaceelement\obj\Debug\netcoreapp3.1\array_replaceelement.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\array_replaceelement\array_replaceelement\obj\Debug\netcoreapp3.1\array_replaceelement.dll
+C:\Users\admin\Desktop\pooja_C#.net\array_replaceelement\array_replaceelement\obj\Debug\netcoreapp3.1\array_replaceelement.pdb
