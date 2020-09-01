@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\arrayprogram1\arrayprogram1\bin\Debug\netcoreapp3.1\arrayprogram1.exe
+C:\Users\admin\Desktop\pooja_C#.net\arrayprogram1\arrayprogram1\bin\Debug\netcoreapp3.1\arrayprogram1.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\arrayprogram1\arrayprogram1\bin\Debug\netcoreapp3.1\arrayprogram1.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\arrayprogram1\arrayprogram1\bin\Debug\netcoreapp3.1\arrayprogram1.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\arrayprogram1\arrayprogram1\bin\Debug\netcoreapp3.1\arrayprogram1.dll
+C:\Users\admin\Desktop\pooja_C#.net\arrayprogram1\arrayprogram1\bin\Debug\netcoreapp3.1\arrayprogram1.pdb
+C:\Users\admin\Desktop\pooja_C#.net\arrayprogram1\arrayprogram1\obj\Debug\netcoreapp3.1\arrayprogram1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\arrayprogram1\arrayprogram1\obj\Debug\netcoreapp3.1\arrayprogram1.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\arrayprogram1\arrayprogram1\obj\Debug\netcoreapp3.1\arrayprogram1.dll
+C:\Users\admin\Desktop\pooja_C#.net\arrayprogram1\arrayprogram1\obj\Debug\netcoreapp3.1\arrayprogram1.pdb
+C:\Users\admin\Desktop\pooja_C#.net\arrayprogram1\arrayprogram1\obj\Debug\netcoreapp3.1\arrayprogram1.csprojAssemblyReference.cache
