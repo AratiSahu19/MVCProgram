@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\Class_classprogrm\Class_classprogrm\bin\Debug\netcoreapp3.1\Class_classprogrm.exe
+C:\Users\admin\Desktop\pooja_C#.net\Class_classprogrm\Class_classprogrm\bin\Debug\netcoreapp3.1\Class_classprogrm.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Class_classprogrm\Class_classprogrm\bin\Debug\netcoreapp3.1\Class_classprogrm.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Class_classprogrm\Class_classprogrm\bin\Debug\netcoreapp3.1\Class_classprogrm.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Class_classprogrm\Class_classprogrm\bin\Debug\netcoreapp3.1\Class_classprogrm.dll
+C:\Users\admin\Desktop\pooja_C#.net\Class_classprogrm\Class_classprogrm\bin\Debug\netcoreapp3.1\Class_classprogrm.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Class_classprogrm\Class_classprogrm\obj\Debug\netcoreapp3.1\Class_classprogrm.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\Class_classprogrm\Class_classprogrm\obj\Debug\netcoreapp3.1\Class_classprogrm.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Class_classprogrm\Class_classprogrm\obj\Debug\netcoreapp3.1\Class_classprogrm.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Class_classprogrm\Class_classprogrm\obj\Debug\netcoreapp3.1\Class_classprogrm.dll
+C:\Users\admin\Desktop\pooja_C#.net\Class_classprogrm\Class_classprogrm\obj\Debug\netcoreapp3.1\Class_classprogrm.pdb

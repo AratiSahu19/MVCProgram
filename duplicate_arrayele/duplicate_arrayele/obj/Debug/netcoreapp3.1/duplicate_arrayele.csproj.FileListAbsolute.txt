@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\duplicate_arrayele\duplicate_arrayele\bin\Debug\netcoreapp3.1\duplicate_arrayele.exe
+C:\Users\admin\Desktop\pooja_C#.net\duplicate_arrayele\duplicate_arrayele\bin\Debug\netcoreapp3.1\duplicate_arrayele.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\duplicate_arrayele\duplicate_arrayele\bin\Debug\netcoreapp3.1\duplicate_arrayele.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\duplicate_arrayele\duplicate_arrayele\bin\Debug\netcoreapp3.1\duplicate_arrayele.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\duplicate_arrayele\duplicate_arrayele\bin\Debug\netcoreapp3.1\duplicate_arrayele.dll
+C:\Users\admin\Desktop\pooja_C#.net\duplicate_arrayele\duplicate_arrayele\bin\Debug\netcoreapp3.1\duplicate_arrayele.pdb
+C:\Users\admin\Desktop\pooja_C#.net\duplicate_arrayele\duplicate_arrayele\obj\Debug\netcoreapp3.1\duplicate_arrayele.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\duplicate_arrayele\duplicate_arrayele\obj\Debug\netcoreapp3.1\duplicate_arrayele.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\duplicate_arrayele\duplicate_arrayele\obj\Debug\netcoreapp3.1\duplicate_arrayele.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\duplicate_arrayele\duplicate_arrayele\obj\Debug\netcoreapp3.1\duplicate_arrayele.dll
+C:\Users\admin\Desktop\pooja_C#.net\duplicate_arrayele\duplicate_arrayele\obj\Debug\netcoreapp3.1\duplicate_arrayele.pdb

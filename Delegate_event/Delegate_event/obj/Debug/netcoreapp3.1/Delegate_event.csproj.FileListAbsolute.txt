@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\Delegate_event\Delegate_event\bin\Debug\netcoreapp3.1\Delegate_event.exe
+C:\Users\admin\Desktop\pooja_C#.net\Delegate_event\Delegate_event\bin\Debug\netcoreapp3.1\Delegate_event.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\Delegate_event\Delegate_event\bin\Debug\netcoreapp3.1\Delegate_event.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\Delegate_event\Delegate_event\bin\Debug\netcoreapp3.1\Delegate_event.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\Delegate_event\Delegate_event\bin\Debug\netcoreapp3.1\Delegate_event.dll
+C:\Users\admin\Desktop\pooja_C#.net\Delegate_event\Delegate_event\bin\Debug\netcoreapp3.1\Delegate_event.pdb
+C:\Users\admin\Desktop\pooja_C#.net\Delegate_event\Delegate_event\obj\Debug\netcoreapp3.1\Delegate_event.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\Delegate_event\Delegate_event\obj\Debug\netcoreapp3.1\Delegate_event.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\Delegate_event\Delegate_event\obj\Debug\netcoreapp3.1\Delegate_event.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\Delegate_event\Delegate_event\obj\Debug\netcoreapp3.1\Delegate_event.dll
+C:\Users\admin\Desktop\pooja_C#.net\Delegate_event\Delegate_event\obj\Debug\netcoreapp3.1\Delegate_event.pdb

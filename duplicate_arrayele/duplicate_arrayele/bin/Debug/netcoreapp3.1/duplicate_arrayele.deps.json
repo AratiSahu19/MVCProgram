@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "duplicate_arrayele/1.0.0": {
+        "runtime": {
+          "duplicate_arrayele.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "duplicate_arrayele/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
