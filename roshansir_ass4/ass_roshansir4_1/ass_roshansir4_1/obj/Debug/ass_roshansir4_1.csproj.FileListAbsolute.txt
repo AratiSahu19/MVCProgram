@@ -1,0 +1,6 @@
+E:\arati\ass_roshansir4_1\ass_roshansir4_1\bin\Debug\ass_roshansir4_1.exe.config
+E:\arati\ass_roshansir4_1\ass_roshansir4_1\bin\Debug\ass_roshansir4_1.exe
+E:\arati\ass_roshansir4_1\ass_roshansir4_1\bin\Debug\ass_roshansir4_1.pdb
+E:\arati\ass_roshansir4_1\ass_roshansir4_1\obj\Debug\ass_roshansir4_1.csprojResolveAssemblyReference.cache
+E:\arati\ass_roshansir4_1\ass_roshansir4_1\obj\Debug\ass_roshansir4_1.exe
+E:\arati\ass_roshansir4_1\ass_roshansir4_1\obj\Debug\ass_roshansir4_1.pdb

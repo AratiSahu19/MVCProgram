@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ass_Roshansir4_6/1.0.0": {
+        "runtime": {
+          "ass_Roshansir4_6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ass_Roshansir4_6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

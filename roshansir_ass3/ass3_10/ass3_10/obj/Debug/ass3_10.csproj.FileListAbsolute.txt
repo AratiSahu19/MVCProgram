@@ -1,0 +1,6 @@
+E:\arati\ass3_10\ass3_10\bin\Debug\ass3_10.exe.config
+E:\arati\ass3_10\ass3_10\bin\Debug\ass3_10.exe
+E:\arati\ass3_10\ass3_10\bin\Debug\ass3_10.pdb
+E:\arati\ass3_10\ass3_10\obj\Debug\ass3_10.csprojResolveAssemblyReference.cache
+E:\arati\ass3_10\ass3_10\obj\Debug\ass3_10.exe
+E:\arati\ass3_10\ass3_10\obj\Debug\ass3_10.pdb

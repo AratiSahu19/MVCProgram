@@ -1,0 +1,6 @@
+E:\arati\ass2_2\ass2_2\bin\Debug\ass2_2.exe.config
+E:\arati\ass2_2\ass2_2\bin\Debug\ass2_2.exe
+E:\arati\ass2_2\ass2_2\bin\Debug\ass2_2.pdb
+E:\arati\ass2_2\ass2_2\obj\Debug\ass2_2.csprojResolveAssemblyReference.cache
+E:\arati\ass2_2\ass2_2\obj\Debug\ass2_2.exe
+E:\arati\ass2_2\ass2_2\obj\Debug\ass2_2.pdb

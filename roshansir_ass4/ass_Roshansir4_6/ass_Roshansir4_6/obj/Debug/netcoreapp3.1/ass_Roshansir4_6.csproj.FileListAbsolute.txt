@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\ass_Roshansir4_6\ass_Roshansir4_6\bin\Debug\netcoreapp3.1\ass_Roshansir4_6.exe
+C:\Users\admin\Desktop\pooja_C#.net\ass_Roshansir4_6\ass_Roshansir4_6\bin\Debug\netcoreapp3.1\ass_Roshansir4_6.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\ass_Roshansir4_6\ass_Roshansir4_6\bin\Debug\netcoreapp3.1\ass_Roshansir4_6.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\ass_Roshansir4_6\ass_Roshansir4_6\bin\Debug\netcoreapp3.1\ass_Roshansir4_6.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\ass_Roshansir4_6\ass_Roshansir4_6\bin\Debug\netcoreapp3.1\ass_Roshansir4_6.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass_Roshansir4_6\ass_Roshansir4_6\bin\Debug\netcoreapp3.1\ass_Roshansir4_6.pdb
+C:\Users\admin\Desktop\pooja_C#.net\ass_Roshansir4_6\ass_Roshansir4_6\obj\Debug\netcoreapp3.1\ass_Roshansir4_6.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass_Roshansir4_6\ass_Roshansir4_6\obj\Debug\netcoreapp3.1\ass_Roshansir4_6.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass_Roshansir4_6\ass_Roshansir4_6\obj\Debug\netcoreapp3.1\ass_Roshansir4_6.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\ass_Roshansir4_6\ass_Roshansir4_6\obj\Debug\netcoreapp3.1\ass_Roshansir4_6.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass_Roshansir4_6\ass_Roshansir4_6\obj\Debug\netcoreapp3.1\ass_Roshansir4_6.pdb

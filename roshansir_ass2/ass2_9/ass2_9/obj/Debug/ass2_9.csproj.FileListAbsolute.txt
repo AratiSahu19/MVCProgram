@@ -1,0 +1,5 @@
+E:\arati\ass2_9\ass2_9\bin\Debug\ass2_9.exe.config
+E:\arati\ass2_9\ass2_9\bin\Debug\ass2_9.exe
+E:\arati\ass2_9\ass2_9\bin\Debug\ass2_9.pdb
+E:\arati\ass2_9\ass2_9\obj\Debug\ass2_9.exe
+E:\arati\ass2_9\ass2_9\obj\Debug\ass2_9.pdb
