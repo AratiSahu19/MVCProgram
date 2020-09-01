@@ -1,0 +1,6 @@
+E:\arati\addition\addition\bin\Debug\addition.exe.config
+E:\arati\addition\addition\bin\Debug\addition.exe
+E:\arati\addition\addition\bin\Debug\addition.pdb
+E:\arati\addition\addition\obj\Debug\addition.csprojResolveAssemblyReference.cache
+E:\arati\addition\addition\obj\Debug\addition.exe
+E:\arati\addition\addition\obj\Debug\addition.pdb
