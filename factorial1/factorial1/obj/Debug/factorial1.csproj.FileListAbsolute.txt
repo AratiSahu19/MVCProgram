@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\factorial1\factorial1\bin\Debug\factorial1.exe.config
+C:\Users\admin\source\repos\factorial1\factorial1\bin\Debug\factorial1.exe
+C:\Users\admin\source\repos\factorial1\factorial1\bin\Debug\factorial1.pdb
+C:\Users\admin\source\repos\factorial1\factorial1\obj\Debug\factorial1.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\factorial1\factorial1\obj\Debug\factorial1.Form1.resources
+C:\Users\admin\source\repos\factorial1\factorial1\obj\Debug\factorial1.Properties.Resources.resources
+C:\Users\admin\source\repos\factorial1\factorial1\obj\Debug\factorial1.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\factorial1\factorial1\obj\Debug\factorial1.exe
+C:\Users\admin\source\repos\factorial1\factorial1\obj\Debug\factorial1.pdb

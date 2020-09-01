@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\createobj\createobj\obj\Debug\netcoreapp3.1\createobj.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\createobj\createobj\obj\Debug\netcoreapp3.1\createobj.AssemblyInfo.cs
+C:\Users\admin\source\repos\createobj\createobj\bin\Debug\netcoreapp3.1\createobj.exe
+C:\Users\admin\source\repos\createobj\createobj\bin\Debug\netcoreapp3.1\createobj.deps.json
+C:\Users\admin\source\repos\createobj\createobj\bin\Debug\netcoreapp3.1\createobj.runtimeconfig.json
+C:\Users\admin\source\repos\createobj\createobj\bin\Debug\netcoreapp3.1\createobj.runtimeconfig.dev.json
+C:\Users\admin\source\repos\createobj\createobj\bin\Debug\netcoreapp3.1\createobj.dll
+C:\Users\admin\source\repos\createobj\createobj\bin\Debug\netcoreapp3.1\createobj.pdb
+C:\Users\admin\source\repos\createobj\createobj\obj\Debug\netcoreapp3.1\createobj.dll
+C:\Users\admin\source\repos\createobj\createobj\obj\Debug\netcoreapp3.1\createobj.pdb
+C:\Users\admin\source\repos\createobj\createobj\obj\Debug\netcoreapp3.1\createobj.csprojAssemblyReference.cache

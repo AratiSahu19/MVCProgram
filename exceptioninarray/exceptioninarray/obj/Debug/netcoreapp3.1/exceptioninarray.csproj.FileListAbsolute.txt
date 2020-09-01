@@ -1,0 +1,3 @@
+C:\Users\admin\source\repos\exceptioninarray\exceptioninarray\obj\Debug\netcoreapp3.1\exceptioninarray.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\exceptioninarray\exceptioninarray\obj\Debug\netcoreapp3.1\exceptioninarray.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\exceptioninarray\exceptioninarray\obj\Debug\netcoreapp3.1\exceptioninarray.AssemblyInfo.cs

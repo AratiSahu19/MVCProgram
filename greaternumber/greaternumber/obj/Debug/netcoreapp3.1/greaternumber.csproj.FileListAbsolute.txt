@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\greaternumber\greaternumber\bin\Debug\netcoreapp3.1\greaternumber.exe
+C:\Users\admin\source\repos\greaternumber\greaternumber\bin\Debug\netcoreapp3.1\greaternumber.deps.json
+C:\Users\admin\source\repos\greaternumber\greaternumber\bin\Debug\netcoreapp3.1\greaternumber.runtimeconfig.json
+C:\Users\admin\source\repos\greaternumber\greaternumber\bin\Debug\netcoreapp3.1\greaternumber.runtimeconfig.dev.json
+C:\Users\admin\source\repos\greaternumber\greaternumber\bin\Debug\netcoreapp3.1\greaternumber.dll
+C:\Users\admin\source\repos\greaternumber\greaternumber\bin\Debug\netcoreapp3.1\greaternumber.pdb
+C:\Users\admin\source\repos\greaternumber\greaternumber\obj\Debug\netcoreapp3.1\greaternumber.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\greaternumber\greaternumber\obj\Debug\netcoreapp3.1\greaternumber.AssemblyInfo.cs
+C:\Users\admin\source\repos\greaternumber\greaternumber\obj\Debug\netcoreapp3.1\greaternumber.dll
+C:\Users\admin\source\repos\greaternumber\greaternumber\obj\Debug\netcoreapp3.1\greaternumber.pdb

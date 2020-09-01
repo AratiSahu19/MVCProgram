@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\foreachemp2\foreachemp2\bin\Debug\netcoreapp3.1\foreachemp2.exe
+C:\Users\admin\source\repos\foreachemp2\foreachemp2\bin\Debug\netcoreapp3.1\foreachemp2.deps.json
+C:\Users\admin\source\repos\foreachemp2\foreachemp2\bin\Debug\netcoreapp3.1\foreachemp2.runtimeconfig.json
+C:\Users\admin\source\repos\foreachemp2\foreachemp2\bin\Debug\netcoreapp3.1\foreachemp2.runtimeconfig.dev.json
+C:\Users\admin\source\repos\foreachemp2\foreachemp2\bin\Debug\netcoreapp3.1\foreachemp2.dll
+C:\Users\admin\source\repos\foreachemp2\foreachemp2\bin\Debug\netcoreapp3.1\foreachemp2.pdb
+C:\Users\admin\source\repos\foreachemp2\foreachemp2\obj\Debug\netcoreapp3.1\foreachemp2.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\foreachemp2\foreachemp2\obj\Debug\netcoreapp3.1\foreachemp2.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\foreachemp2\foreachemp2\obj\Debug\netcoreapp3.1\foreachemp2.AssemblyInfo.cs
+C:\Users\admin\source\repos\foreachemp2\foreachemp2\obj\Debug\netcoreapp3.1\foreachemp2.dll
+C:\Users\admin\source\repos\foreachemp2\foreachemp2\obj\Debug\netcoreapp3.1\foreachemp2.pdb

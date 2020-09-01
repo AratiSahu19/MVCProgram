@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\factbyref\factbyref\bin\Debug\netcoreapp3.1\factbyref.exe
+C:\Users\admin\source\repos\factbyref\factbyref\bin\Debug\netcoreapp3.1\factbyref.deps.json
+C:\Users\admin\source\repos\factbyref\factbyref\bin\Debug\netcoreapp3.1\factbyref.runtimeconfig.json
+C:\Users\admin\source\repos\factbyref\factbyref\bin\Debug\netcoreapp3.1\factbyref.runtimeconfig.dev.json
+C:\Users\admin\source\repos\factbyref\factbyref\bin\Debug\netcoreapp3.1\factbyref.dll
+C:\Users\admin\source\repos\factbyref\factbyref\bin\Debug\netcoreapp3.1\factbyref.pdb
+C:\Users\admin\source\repos\factbyref\factbyref\obj\Debug\netcoreapp3.1\factbyref.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\factbyref\factbyref\obj\Debug\netcoreapp3.1\factbyref.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\factbyref\factbyref\obj\Debug\netcoreapp3.1\factbyref.AssemblyInfo.cs
+C:\Users\admin\source\repos\factbyref\factbyref\obj\Debug\netcoreapp3.1\factbyref.dll
+C:\Users\admin\source\repos\factbyref\factbyref\obj\Debug\netcoreapp3.1\factbyref.pdb
