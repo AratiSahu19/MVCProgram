@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisement>
+  <Ad>
+    <ImageUrl>bkg-blu.jpg</ImageUrl>
+    <Impression>200</Impression>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>star.png</ImageUrl>
+    <Impression>400</Impression>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>square.png</ImageUrl>
+    <Impression>600</Impression>
+  </Ad>
+</Advertisement>
