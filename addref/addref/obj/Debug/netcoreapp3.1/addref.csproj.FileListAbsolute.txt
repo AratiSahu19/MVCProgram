@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\addref\addref\bin\Debug\netcoreapp3.1\addref.exe
+C:\Users\admin\source\repos\addref\addref\bin\Debug\netcoreapp3.1\addref.deps.json
+C:\Users\admin\source\repos\addref\addref\bin\Debug\netcoreapp3.1\addref.runtimeconfig.json
+C:\Users\admin\source\repos\addref\addref\bin\Debug\netcoreapp3.1\addref.runtimeconfig.dev.json
+C:\Users\admin\source\repos\addref\addref\bin\Debug\netcoreapp3.1\addref.dll
+C:\Users\admin\source\repos\addref\addref\bin\Debug\netcoreapp3.1\addref.pdb
+C:\Users\admin\source\repos\addref\addref\obj\Debug\netcoreapp3.1\addref.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\addref\addref\obj\Debug\netcoreapp3.1\addref.AssemblyInfo.cs
+C:\Users\admin\source\repos\addref\addref\obj\Debug\netcoreapp3.1\addref.dll
+C:\Users\admin\source\repos\addref\addref\obj\Debug\netcoreapp3.1\addref.pdb

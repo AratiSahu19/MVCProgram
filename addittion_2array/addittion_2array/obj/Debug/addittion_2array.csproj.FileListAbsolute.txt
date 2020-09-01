@@ -1,0 +1,5 @@
+E:\Nikita\addittion_2array\addittion_2array\bin\Debug\addittion_2array.exe.config
+E:\Nikita\addittion_2array\addittion_2array\bin\Debug\addittion_2array.exe
+E:\Nikita\addittion_2array\addittion_2array\bin\Debug\addittion_2array.pdb
+E:\Nikita\addittion_2array\addittion_2array\obj\Debug\addittion_2array.exe
+E:\Nikita\addittion_2array\addittion_2array\obj\Debug\addittion_2array.pdb

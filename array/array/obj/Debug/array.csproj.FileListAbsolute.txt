@@ -1,0 +1,6 @@
+E:\Nikita\array\array\bin\Debug\array.exe.config
+E:\Nikita\array\array\bin\Debug\array.exe
+E:\Nikita\array\array\bin\Debug\array.pdb
+E:\Nikita\array\array\obj\Debug\array.csprojResolveAssemblyReference.cache
+E:\Nikita\array\array\obj\Debug\array.exe
+E:\Nikita\array\array\obj\Debug\array.pdb
