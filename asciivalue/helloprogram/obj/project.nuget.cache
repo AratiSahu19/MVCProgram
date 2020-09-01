@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DQDZ82DlqIcf2t4DpVidvR+m3No7LSVf+5954dRveO8JoVYsAktKdf3cZl1CvK5im0e8/WqeORKTn46KNFXZkA==",
+  "success": true,
+  "projectFilePath": "E:\\puja pd\\arati program\\arati\\helloprogram\\helloprogram\\helloprogram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

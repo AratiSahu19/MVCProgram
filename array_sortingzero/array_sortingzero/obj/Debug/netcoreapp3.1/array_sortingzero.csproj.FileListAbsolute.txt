@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\array_sortingzero\array_sortingzero\bin\Debug\netcoreapp3.1\array_sortingzero.exe
+C:\Users\admin\Desktop\pooja_C#.net\array_sortingzero\array_sortingzero\bin\Debug\netcoreapp3.1\array_sortingzero.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\array_sortingzero\array_sortingzero\bin\Debug\netcoreapp3.1\array_sortingzero.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\array_sortingzero\array_sortingzero\bin\Debug\netcoreapp3.1\array_sortingzero.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\array_sortingzero\array_sortingzero\bin\Debug\netcoreapp3.1\array_sortingzero.dll
+C:\Users\admin\Desktop\pooja_C#.net\array_sortingzero\array_sortingzero\bin\Debug\netcoreapp3.1\array_sortingzero.pdb
+C:\Users\admin\Desktop\pooja_C#.net\array_sortingzero\array_sortingzero\obj\Debug\netcoreapp3.1\array_sortingzero.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\array_sortingzero\array_sortingzero\obj\Debug\netcoreapp3.1\array_sortingzero.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\array_sortingzero\array_sortingzero\obj\Debug\netcoreapp3.1\array_sortingzero.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\array_sortingzero\array_sortingzero\obj\Debug\netcoreapp3.1\array_sortingzero.dll
+C:\Users\admin\Desktop\pooja_C#.net\array_sortingzero\array_sortingzero\obj\Debug\netcoreapp3.1\array_sortingzero.pdb

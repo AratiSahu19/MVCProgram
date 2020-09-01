@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\pooja_C#.net\array_insertele\array_insertele\bin\Debug\netcoreapp3.1\array_insertele.exe
+C:\Users\admin\Desktop\pooja_C#.net\array_insertele\array_insertele\bin\Debug\netcoreapp3.1\array_insertele.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\array_insertele\array_insertele\bin\Debug\netcoreapp3.1\array_insertele.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\array_insertele\array_insertele\bin\Debug\netcoreapp3.1\array_insertele.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\array_insertele\array_insertele\bin\Debug\netcoreapp3.1\array_insertele.dll
+C:\Users\admin\Desktop\pooja_C#.net\array_insertele\array_insertele\bin\Debug\netcoreapp3.1\array_insertele.pdb
+C:\Users\admin\Desktop\pooja_C#.net\array_insertele\array_insertele\obj\Debug\netcoreapp3.1\array_insertele.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\array_insertele\array_insertele\obj\Debug\netcoreapp3.1\array_insertele.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\array_insertele\array_insertele\obj\Debug\netcoreapp3.1\array_insertele.dll
+C:\Users\admin\Desktop\pooja_C#.net\array_insertele\array_insertele\obj\Debug\netcoreapp3.1\array_insertele.pdb
