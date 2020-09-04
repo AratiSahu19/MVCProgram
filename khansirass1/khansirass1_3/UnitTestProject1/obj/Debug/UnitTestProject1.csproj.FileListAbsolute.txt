@@ -1,0 +1,9 @@
+E:\arati\srtingexmp2\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\arati\srtingexmp2\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\arati\srtingexmp2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\arati\srtingexmp2\UnitTestProject1\bin\Debug\srtingexmp2.exe
+E:\arati\srtingexmp2\UnitTestProject1\bin\Debug\srtingexmp2.pdb
+E:\arati\srtingexmp2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\arati\srtingexmp2\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\arati\srtingexmp2\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\arati\srtingexmp2\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

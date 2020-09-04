@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\ass9_fibonacci\ass9_fibonacci\bin\Debug\netcoreapp3.1\ass9_fibonacci.exe
+C:\Users\admin\Desktop\pooja_C#.net\ass9_fibonacci\ass9_fibonacci\bin\Debug\netcoreapp3.1\ass9_fibonacci.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\ass9_fibonacci\ass9_fibonacci\bin\Debug\netcoreapp3.1\ass9_fibonacci.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\ass9_fibonacci\ass9_fibonacci\bin\Debug\netcoreapp3.1\ass9_fibonacci.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\ass9_fibonacci\ass9_fibonacci\bin\Debug\netcoreapp3.1\ass9_fibonacci.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass9_fibonacci\ass9_fibonacci\bin\Debug\netcoreapp3.1\ass9_fibonacci.pdb
+C:\Users\admin\Desktop\pooja_C#.net\ass9_fibonacci\ass9_fibonacci\obj\Debug\netcoreapp3.1\ass9_fibonacci.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass9_fibonacci\ass9_fibonacci\obj\Debug\netcoreapp3.1\ass9_fibonacci.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\ass9_fibonacci\ass9_fibonacci\obj\Debug\netcoreapp3.1\ass9_fibonacci.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass9_fibonacci\ass9_fibonacci\obj\Debug\netcoreapp3.1\ass9_fibonacci.pdb
+C:\Users\admin\Desktop\pooja_C#.net\ass9_fibonacci\ass9_fibonacci\obj\Debug\netcoreapp3.1\ass9_fibonacci.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ass6_arrayaddition/1.0.0": {
+        "runtime": {
+          "ass6_arrayaddition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ass6_arrayaddition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

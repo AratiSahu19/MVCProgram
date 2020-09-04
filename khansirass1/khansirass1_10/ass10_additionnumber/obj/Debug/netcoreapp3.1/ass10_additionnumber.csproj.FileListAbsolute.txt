@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\ass10_additionnumber\ass10_additionnumber\bin\Debug\netcoreapp3.1\ass10_additionnumber.exe
+C:\Users\admin\Desktop\pooja_C#.net\ass10_additionnumber\ass10_additionnumber\bin\Debug\netcoreapp3.1\ass10_additionnumber.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\ass10_additionnumber\ass10_additionnumber\bin\Debug\netcoreapp3.1\ass10_additionnumber.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\ass10_additionnumber\ass10_additionnumber\bin\Debug\netcoreapp3.1\ass10_additionnumber.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\ass10_additionnumber\ass10_additionnumber\bin\Debug\netcoreapp3.1\ass10_additionnumber.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass10_additionnumber\ass10_additionnumber\bin\Debug\netcoreapp3.1\ass10_additionnumber.pdb
+C:\Users\admin\Desktop\pooja_C#.net\ass10_additionnumber\ass10_additionnumber\obj\Debug\netcoreapp3.1\ass10_additionnumber.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass10_additionnumber\ass10_additionnumber\obj\Debug\netcoreapp3.1\ass10_additionnumber.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass10_additionnumber\ass10_additionnumber\obj\Debug\netcoreapp3.1\ass10_additionnumber.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\ass10_additionnumber\ass10_additionnumber\obj\Debug\netcoreapp3.1\ass10_additionnumber.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass10_additionnumber\ass10_additionnumber\obj\Debug\netcoreapp3.1\ass10_additionnumber.pdb

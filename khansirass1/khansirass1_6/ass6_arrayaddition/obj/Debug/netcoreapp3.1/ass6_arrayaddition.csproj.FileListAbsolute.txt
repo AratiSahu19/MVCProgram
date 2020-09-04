@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\ass6_arrayaddition\ass6_arrayaddition\bin\Debug\netcoreapp3.1\ass6_arrayaddition.exe
+C:\Users\admin\Desktop\pooja_C#.net\ass6_arrayaddition\ass6_arrayaddition\bin\Debug\netcoreapp3.1\ass6_arrayaddition.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\ass6_arrayaddition\ass6_arrayaddition\bin\Debug\netcoreapp3.1\ass6_arrayaddition.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\ass6_arrayaddition\ass6_arrayaddition\bin\Debug\netcoreapp3.1\ass6_arrayaddition.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\ass6_arrayaddition\ass6_arrayaddition\bin\Debug\netcoreapp3.1\ass6_arrayaddition.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass6_arrayaddition\ass6_arrayaddition\bin\Debug\netcoreapp3.1\ass6_arrayaddition.pdb
+C:\Users\admin\Desktop\pooja_C#.net\ass6_arrayaddition\ass6_arrayaddition\obj\Debug\netcoreapp3.1\ass6_arrayaddition.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass6_arrayaddition\ass6_arrayaddition\obj\Debug\netcoreapp3.1\ass6_arrayaddition.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass6_arrayaddition\ass6_arrayaddition\obj\Debug\netcoreapp3.1\ass6_arrayaddition.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\ass6_arrayaddition\ass6_arrayaddition\obj\Debug\netcoreapp3.1\ass6_arrayaddition.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass6_arrayaddition\ass6_arrayaddition\obj\Debug\netcoreapp3.1\ass6_arrayaddition.pdb

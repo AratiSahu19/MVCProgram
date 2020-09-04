@@ -1,0 +1,6 @@
+E:\arati\stringspacecount\stringspacecount\bin\Debug\stringspacecount.exe.config
+E:\arati\stringspacecount\stringspacecount\bin\Debug\stringspacecount.exe
+E:\arati\stringspacecount\stringspacecount\bin\Debug\stringspacecount.pdb
+E:\arati\stringspacecount\stringspacecount\obj\Debug\stringspacecount.csprojResolveAssemblyReference.cache
+E:\arati\stringspacecount\stringspacecount\obj\Debug\stringspacecount.exe
+E:\arati\stringspacecount\stringspacecount\obj\Debug\stringspacecount.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5k1OSfT78wbA0pBUFUNp8xCiR+mFwQgImU6ea5zG/Jy4obpF4tZ6DMsCfGP5F4FI35Q7QrI1wVbd5st/IO7wkQ==",
+  "success": true,
+  "projectFilePath": "E:\\puja pd\\Pooja Program\\Console Application\\ass7_swapno\\ass7_swapno\\ass7_swapno.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

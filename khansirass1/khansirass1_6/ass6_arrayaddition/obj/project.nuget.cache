@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pebn7z33DxMavSHqV+OA7Vp+juelolX5wuA8Bt7/RdggfnNM9E9okvDZjdv8+dfDm03w+7N9FlDhw3sf3Vv0Rw==",
+  "success": true,
+  "projectFilePath": "E:\\puja pd\\Pooja Program\\Console Application\\ass6_arrayaddition\\ass6_arrayaddition\\ass6_arrayaddition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

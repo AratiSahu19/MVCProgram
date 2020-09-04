@@ -1,0 +1,6 @@
+E:\arati\srtingexmp2\srtingexmp2\bin\Debug\srtingexmp2.exe.config
+E:\arati\srtingexmp2\srtingexmp2\bin\Debug\srtingexmp2.exe
+E:\arati\srtingexmp2\srtingexmp2\bin\Debug\srtingexmp2.pdb
+E:\arati\srtingexmp2\srtingexmp2\obj\Debug\srtingexmp2.csprojResolveAssemblyReference.cache
+E:\arati\srtingexmp2\srtingexmp2\obj\Debug\srtingexmp2.exe
+E:\arati\srtingexmp2\srtingexmp2\obj\Debug\srtingexmp2.pdb

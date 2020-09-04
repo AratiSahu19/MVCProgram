@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\pooja_C#.net\ass7_swapno\ass7_swapno\bin\Debug\netcoreapp3.1\ass7_swapno.exe
+C:\Users\admin\Desktop\pooja_C#.net\ass7_swapno\ass7_swapno\bin\Debug\netcoreapp3.1\ass7_swapno.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\ass7_swapno\ass7_swapno\bin\Debug\netcoreapp3.1\ass7_swapno.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\ass7_swapno\ass7_swapno\bin\Debug\netcoreapp3.1\ass7_swapno.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\ass7_swapno\ass7_swapno\bin\Debug\netcoreapp3.1\ass7_swapno.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass7_swapno\ass7_swapno\bin\Debug\netcoreapp3.1\ass7_swapno.pdb
+C:\Users\admin\Desktop\pooja_C#.net\ass7_swapno\ass7_swapno\obj\Debug\netcoreapp3.1\ass7_swapno.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass7_swapno\ass7_swapno\obj\Debug\netcoreapp3.1\ass7_swapno.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\ass7_swapno\ass7_swapno\obj\Debug\netcoreapp3.1\ass7_swapno.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass7_swapno\ass7_swapno\obj\Debug\netcoreapp3.1\ass7_swapno.pdb

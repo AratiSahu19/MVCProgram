@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\ass8\ass8\bin\Debug\netcoreapp3.1\ass8_powernumber.exe
+C:\Users\admin\Desktop\pooja_C#.net\ass8\ass8\bin\Debug\netcoreapp3.1\ass8_powernumber.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\ass8\ass8\bin\Debug\netcoreapp3.1\ass8_powernumber.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\ass8\ass8\bin\Debug\netcoreapp3.1\ass8_powernumber.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\ass8\ass8\bin\Debug\netcoreapp3.1\ass8_powernumber.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass8\ass8\bin\Debug\netcoreapp3.1\ass8_powernumber.pdb
+C:\Users\admin\Desktop\pooja_C#.net\ass8\ass8\obj\Debug\netcoreapp3.1\ass8_powernumber.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\ass8\ass8\obj\Debug\netcoreapp3.1\ass8_powernumber.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\ass8\ass8\obj\Debug\netcoreapp3.1\ass8_powernumber.dll
+C:\Users\admin\Desktop\pooja_C#.net\ass8\ass8\obj\Debug\netcoreapp3.1\ass8_powernumber.pdb
+C:\Users\admin\Desktop\pooja_C#.net\ass8\ass8\obj\Debug\netcoreapp3.1\ass8_powernumber.csprojAssemblyReference.cache
