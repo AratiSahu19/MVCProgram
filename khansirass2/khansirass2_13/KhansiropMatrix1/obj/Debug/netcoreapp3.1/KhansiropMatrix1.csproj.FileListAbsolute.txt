@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\pooja_C#.net\KhansiropMatrix1\KhansiropMatrix1\bin\Debug\netcoreapp3.1\KhansiropMatrix1.exe
+C:\Users\admin\Desktop\pooja_C#.net\KhansiropMatrix1\KhansiropMatrix1\bin\Debug\netcoreapp3.1\KhansiropMatrix1.deps.json
+C:\Users\admin\Desktop\pooja_C#.net\KhansiropMatrix1\KhansiropMatrix1\bin\Debug\netcoreapp3.1\KhansiropMatrix1.runtimeconfig.json
+C:\Users\admin\Desktop\pooja_C#.net\KhansiropMatrix1\KhansiropMatrix1\bin\Debug\netcoreapp3.1\KhansiropMatrix1.runtimeconfig.dev.json
+C:\Users\admin\Desktop\pooja_C#.net\KhansiropMatrix1\KhansiropMatrix1\bin\Debug\netcoreapp3.1\KhansiropMatrix1.dll
+C:\Users\admin\Desktop\pooja_C#.net\KhansiropMatrix1\KhansiropMatrix1\bin\Debug\netcoreapp3.1\KhansiropMatrix1.pdb
+C:\Users\admin\Desktop\pooja_C#.net\KhansiropMatrix1\KhansiropMatrix1\obj\Debug\netcoreapp3.1\KhansiropMatrix1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\pooja_C#.net\KhansiropMatrix1\KhansiropMatrix1\obj\Debug\netcoreapp3.1\KhansiropMatrix1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\pooja_C#.net\KhansiropMatrix1\KhansiropMatrix1\obj\Debug\netcoreapp3.1\KhansiropMatrix1.AssemblyInfo.cs
+C:\Users\admin\Desktop\pooja_C#.net\KhansiropMatrix1\KhansiropMatrix1\obj\Debug\netcoreapp3.1\KhansiropMatrix1.dll
+C:\Users\admin\Desktop\pooja_C#.net\KhansiropMatrix1\KhansiropMatrix1\obj\Debug\netcoreapp3.1\KhansiropMatrix1.pdb

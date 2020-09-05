@@ -1,0 +1,3 @@
+F:\khansirass2\khansirass2_7\khansirass2_7\obj\Debug\netcoreapp3.1\khansirass2_7.AssemblyInfoInputs.cache
+F:\khansirass2\khansirass2_7\khansirass2_7\obj\Debug\netcoreapp3.1\khansirass2_7.AssemblyInfo.cs
+F:\khansirass2\khansirass2_7\khansirass2_7\obj\Debug\netcoreapp3.1\khansirass2_7.csproj.CoreCompileInputs.cache
