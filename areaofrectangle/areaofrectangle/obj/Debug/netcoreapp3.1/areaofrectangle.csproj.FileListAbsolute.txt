@@ -1,0 +1,13 @@
+F:\areaofrectangle\areaofrectangle\bin\Debug\netcoreapp3.1\areaofrectangle.exe
+F:\areaofrectangle\areaofrectangle\bin\Debug\netcoreapp3.1\areaofrectangle.deps.json
+F:\areaofrectangle\areaofrectangle\bin\Debug\netcoreapp3.1\areaofrectangle.runtimeconfig.json
+F:\areaofrectangle\areaofrectangle\bin\Debug\netcoreapp3.1\areaofrectangle.runtimeconfig.dev.json
+F:\areaofrectangle\areaofrectangle\bin\Debug\netcoreapp3.1\areaofrectangle.dll
+F:\areaofrectangle\areaofrectangle\bin\Debug\netcoreapp3.1\areaofrectangle.pdb
+F:\areaofrectangle\areaofrectangle\obj\Debug\netcoreapp3.1\areaofrectangle.csprojAssemblyReference.cache
+F:\areaofrectangle\areaofrectangle\obj\Debug\netcoreapp3.1\areaofrectangle.AssemblyInfoInputs.cache
+F:\areaofrectangle\areaofrectangle\obj\Debug\netcoreapp3.1\areaofrectangle.AssemblyInfo.cs
+F:\areaofrectangle\areaofrectangle\obj\Debug\netcoreapp3.1\areaofrectangle.csproj.CoreCompileInputs.cache
+F:\areaofrectangle\areaofrectangle\obj\Debug\netcoreapp3.1\areaofrectangle.dll
+F:\areaofrectangle\areaofrectangle\obj\Debug\netcoreapp3.1\areaofrectangle.pdb
+F:\areaofrectangle\areaofrectangle\obj\Debug\netcoreapp3.1\areaofrectangle.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+F:\sizeof_datatype\sizeof_datatype\bin\Debug\netcoreapp3.1\sizeof_datatype.exe
+F:\sizeof_datatype\sizeof_datatype\bin\Debug\netcoreapp3.1\sizeof_datatype.deps.json
+F:\sizeof_datatype\sizeof_datatype\bin\Debug\netcoreapp3.1\sizeof_datatype.runtimeconfig.json
+F:\sizeof_datatype\sizeof_datatype\bin\Debug\netcoreapp3.1\sizeof_datatype.runtimeconfig.dev.json
+F:\sizeof_datatype\sizeof_datatype\bin\Debug\netcoreapp3.1\sizeof_datatype.dll
+F:\sizeof_datatype\sizeof_datatype\bin\Debug\netcoreapp3.1\sizeof_datatype.pdb
+F:\sizeof_datatype\sizeof_datatype\obj\Debug\netcoreapp3.1\sizeof_datatype.AssemblyInfoInputs.cache
+F:\sizeof_datatype\sizeof_datatype\obj\Debug\netcoreapp3.1\sizeof_datatype.AssemblyInfo.cs
+F:\sizeof_datatype\sizeof_datatype\obj\Debug\netcoreapp3.1\sizeof_datatype.csproj.CoreCompileInputs.cache
+F:\sizeof_datatype\sizeof_datatype\obj\Debug\netcoreapp3.1\sizeof_datatype.dll
+F:\sizeof_datatype\sizeof_datatype\obj\Debug\netcoreapp3.1\sizeof_datatype.pdb
+F:\sizeof_datatype\sizeof_datatype\obj\Debug\netcoreapp3.1\sizeof_datatype.genruntimeconfig.cache

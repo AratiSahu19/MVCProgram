@@ -1,0 +1,13 @@
+F:\infiniteloop\infiniteloop\bin\Debug\netcoreapp3.1\infiniteloop.exe
+F:\infiniteloop\infiniteloop\bin\Debug\netcoreapp3.1\infiniteloop.deps.json
+F:\infiniteloop\infiniteloop\bin\Debug\netcoreapp3.1\infiniteloop.runtimeconfig.json
+F:\infiniteloop\infiniteloop\bin\Debug\netcoreapp3.1\infiniteloop.runtimeconfig.dev.json
+F:\infiniteloop\infiniteloop\bin\Debug\netcoreapp3.1\infiniteloop.dll
+F:\infiniteloop\infiniteloop\bin\Debug\netcoreapp3.1\infiniteloop.pdb
+F:\infiniteloop\infiniteloop\obj\Debug\netcoreapp3.1\infiniteloop.csprojAssemblyReference.cache
+F:\infiniteloop\infiniteloop\obj\Debug\netcoreapp3.1\infiniteloop.AssemblyInfoInputs.cache
+F:\infiniteloop\infiniteloop\obj\Debug\netcoreapp3.1\infiniteloop.AssemblyInfo.cs
+F:\infiniteloop\infiniteloop\obj\Debug\netcoreapp3.1\infiniteloop.csproj.CoreCompileInputs.cache
+F:\infiniteloop\infiniteloop\obj\Debug\netcoreapp3.1\infiniteloop.dll
+F:\infiniteloop\infiniteloop\obj\Debug\netcoreapp3.1\infiniteloop.pdb
+F:\infiniteloop\infiniteloop\obj\Debug\netcoreapp3.1\infiniteloop.genruntimeconfig.cache

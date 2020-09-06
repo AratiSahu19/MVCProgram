@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mHw42ckvMN+/13sNlIv6WJFDPlInXotZMeyPW8WxHtmY8fTniCXW7gUiF+gtGrejI2d2wCNjpk8AdlMdSomgoQ==",
+  "success": true,
+  "projectFilePath": "F:\\areaofrectangle\\areaofrectangle\\areaofrectangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

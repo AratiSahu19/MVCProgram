@@ -1,0 +1,13 @@
+F:\areaof_circle\areaof_circle\obj\Debug\netcoreapp3.1\areaof_circle.csprojAssemblyReference.cache
+F:\areaof_circle\areaof_circle\obj\Debug\netcoreapp3.1\areaof_circle.AssemblyInfoInputs.cache
+F:\areaof_circle\areaof_circle\obj\Debug\netcoreapp3.1\areaof_circle.AssemblyInfo.cs
+F:\areaof_circle\areaof_circle\obj\Debug\netcoreapp3.1\areaof_circle.csproj.CoreCompileInputs.cache
+F:\areaof_circle\areaof_circle\bin\Debug\netcoreapp3.1\areaof_circle.exe
+F:\areaof_circle\areaof_circle\bin\Debug\netcoreapp3.1\areaof_circle.deps.json
+F:\areaof_circle\areaof_circle\bin\Debug\netcoreapp3.1\areaof_circle.runtimeconfig.json
+F:\areaof_circle\areaof_circle\bin\Debug\netcoreapp3.1\areaof_circle.runtimeconfig.dev.json
+F:\areaof_circle\areaof_circle\bin\Debug\netcoreapp3.1\areaof_circle.dll
+F:\areaof_circle\areaof_circle\bin\Debug\netcoreapp3.1\areaof_circle.pdb
+F:\areaof_circle\areaof_circle\obj\Debug\netcoreapp3.1\areaof_circle.dll
+F:\areaof_circle\areaof_circle\obj\Debug\netcoreapp3.1\areaof_circle.pdb
+F:\areaof_circle\areaof_circle\obj\Debug\netcoreapp3.1\areaof_circle.genruntimeconfig.cache

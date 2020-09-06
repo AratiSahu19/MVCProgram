@@ -1,0 +1,13 @@
+F:\recursivefactorial\recursivefactorial\bin\Debug\netcoreapp3.1\recursivefactorial.exe
+F:\recursivefactorial\recursivefactorial\bin\Debug\netcoreapp3.1\recursivefactorial.deps.json
+F:\recursivefactorial\recursivefactorial\bin\Debug\netcoreapp3.1\recursivefactorial.runtimeconfig.json
+F:\recursivefactorial\recursivefactorial\bin\Debug\netcoreapp3.1\recursivefactorial.runtimeconfig.dev.json
+F:\recursivefactorial\recursivefactorial\bin\Debug\netcoreapp3.1\recursivefactorial.dll
+F:\recursivefactorial\recursivefactorial\bin\Debug\netcoreapp3.1\recursivefactorial.pdb
+F:\recursivefactorial\recursivefactorial\obj\Debug\netcoreapp3.1\recursivefactorial.csprojAssemblyReference.cache
+F:\recursivefactorial\recursivefactorial\obj\Debug\netcoreapp3.1\recursivefactorial.AssemblyInfoInputs.cache
+F:\recursivefactorial\recursivefactorial\obj\Debug\netcoreapp3.1\recursivefactorial.AssemblyInfo.cs
+F:\recursivefactorial\recursivefactorial\obj\Debug\netcoreapp3.1\recursivefactorial.csproj.CoreCompileInputs.cache
+F:\recursivefactorial\recursivefactorial\obj\Debug\netcoreapp3.1\recursivefactorial.dll
+F:\recursivefactorial\recursivefactorial\obj\Debug\netcoreapp3.1\recursivefactorial.pdb
+F:\recursivefactorial\recursivefactorial\obj\Debug\netcoreapp3.1\recursivefactorial.genruntimeconfig.cache
