@@ -1,0 +1,13 @@
+F:\khansirass4_6\khansirass4_6\bin\Debug\netcoreapp3.1\khansirass4_6.exe
+F:\khansirass4_6\khansirass4_6\bin\Debug\netcoreapp3.1\khansirass4_6.deps.json
+F:\khansirass4_6\khansirass4_6\bin\Debug\netcoreapp3.1\khansirass4_6.runtimeconfig.json
+F:\khansirass4_6\khansirass4_6\bin\Debug\netcoreapp3.1\khansirass4_6.runtimeconfig.dev.json
+F:\khansirass4_6\khansirass4_6\bin\Debug\netcoreapp3.1\khansirass4_6.dll
+F:\khansirass4_6\khansirass4_6\bin\Debug\netcoreapp3.1\khansirass4_6.pdb
+F:\khansirass4_6\khansirass4_6\obj\Debug\netcoreapp3.1\khansirass4_6.csprojAssemblyReference.cache
+F:\khansirass4_6\khansirass4_6\obj\Debug\netcoreapp3.1\khansirass4_6.AssemblyInfoInputs.cache
+F:\khansirass4_6\khansirass4_6\obj\Debug\netcoreapp3.1\khansirass4_6.AssemblyInfo.cs
+F:\khansirass4_6\khansirass4_6\obj\Debug\netcoreapp3.1\khansirass4_6.csproj.CoreCompileInputs.cache
+F:\khansirass4_6\khansirass4_6\obj\Debug\netcoreapp3.1\khansirass4_6.dll
+F:\khansirass4_6\khansirass4_6\obj\Debug\netcoreapp3.1\khansirass4_6.pdb
+F:\khansirass4_6\khansirass4_6\obj\Debug\netcoreapp3.1\khansirass4_6.genruntimeconfig.cache

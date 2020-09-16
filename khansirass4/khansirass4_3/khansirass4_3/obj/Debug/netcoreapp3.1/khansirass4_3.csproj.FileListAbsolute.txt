@@ -1,0 +1,12 @@
+F:\khansirass4_3\khansirass4_3\bin\Debug\netcoreapp3.1\khansirass4_3.exe
+F:\khansirass4_3\khansirass4_3\bin\Debug\netcoreapp3.1\khansirass4_3.deps.json
+F:\khansirass4_3\khansirass4_3\bin\Debug\netcoreapp3.1\khansirass4_3.runtimeconfig.json
+F:\khansirass4_3\khansirass4_3\bin\Debug\netcoreapp3.1\khansirass4_3.runtimeconfig.dev.json
+F:\khansirass4_3\khansirass4_3\bin\Debug\netcoreapp3.1\khansirass4_3.dll
+F:\khansirass4_3\khansirass4_3\bin\Debug\netcoreapp3.1\khansirass4_3.pdb
+F:\khansirass4_3\khansirass4_3\obj\Debug\netcoreapp3.1\khansirass4_3.AssemblyInfoInputs.cache
+F:\khansirass4_3\khansirass4_3\obj\Debug\netcoreapp3.1\khansirass4_3.AssemblyInfo.cs
+F:\khansirass4_3\khansirass4_3\obj\Debug\netcoreapp3.1\khansirass4_3.csproj.CoreCompileInputs.cache
+F:\khansirass4_3\khansirass4_3\obj\Debug\netcoreapp3.1\khansirass4_3.dll
+F:\khansirass4_3\khansirass4_3\obj\Debug\netcoreapp3.1\khansirass4_3.pdb
+F:\khansirass4_3\khansirass4_3\obj\Debug\netcoreapp3.1\khansirass4_3.genruntimeconfig.cache
