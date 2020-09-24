@@ -1,0 +1,13 @@
+F:\practice .net\copy_constructor\copy_constructor\bin\Debug\netcoreapp3.1\copy_constructor.exe
+F:\practice .net\copy_constructor\copy_constructor\bin\Debug\netcoreapp3.1\copy_constructor.deps.json
+F:\practice .net\copy_constructor\copy_constructor\bin\Debug\netcoreapp3.1\copy_constructor.runtimeconfig.json
+F:\practice .net\copy_constructor\copy_constructor\bin\Debug\netcoreapp3.1\copy_constructor.runtimeconfig.dev.json
+F:\practice .net\copy_constructor\copy_constructor\bin\Debug\netcoreapp3.1\copy_constructor.dll
+F:\practice .net\copy_constructor\copy_constructor\bin\Debug\netcoreapp3.1\copy_constructor.pdb
+F:\practice .net\copy_constructor\copy_constructor\obj\Debug\netcoreapp3.1\copy_constructor.csprojAssemblyReference.cache
+F:\practice .net\copy_constructor\copy_constructor\obj\Debug\netcoreapp3.1\copy_constructor.AssemblyInfoInputs.cache
+F:\practice .net\copy_constructor\copy_constructor\obj\Debug\netcoreapp3.1\copy_constructor.AssemblyInfo.cs
+F:\practice .net\copy_constructor\copy_constructor\obj\Debug\netcoreapp3.1\copy_constructor.csproj.CoreCompileInputs.cache
+F:\practice .net\copy_constructor\copy_constructor\obj\Debug\netcoreapp3.1\copy_constructor.dll
+F:\practice .net\copy_constructor\copy_constructor\obj\Debug\netcoreapp3.1\copy_constructor.pdb
+F:\practice .net\copy_constructor\copy_constructor\obj\Debug\netcoreapp3.1\copy_constructor.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "saSaG/9nCaz/kpMw8yLfVYOqB/ZlBvXV2n0vr8X7lf2tu7PF1dfJphytHp4RVJolbCC6IsWqDfF7jWFuDTFZhg==",
+  "success": true,
+  "projectFilePath": "F:\\practice .net\\default_constructor\\default_constructor\\default_constructor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

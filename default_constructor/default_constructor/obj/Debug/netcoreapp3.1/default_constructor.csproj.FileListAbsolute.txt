@@ -1,0 +1,13 @@
+F:\practice .net\default_constructor\default_constructor\bin\Debug\netcoreapp3.1\default_constructor.exe
+F:\practice .net\default_constructor\default_constructor\bin\Debug\netcoreapp3.1\default_constructor.deps.json
+F:\practice .net\default_constructor\default_constructor\bin\Debug\netcoreapp3.1\default_constructor.runtimeconfig.json
+F:\practice .net\default_constructor\default_constructor\bin\Debug\netcoreapp3.1\default_constructor.runtimeconfig.dev.json
+F:\practice .net\default_constructor\default_constructor\bin\Debug\netcoreapp3.1\default_constructor.dll
+F:\practice .net\default_constructor\default_constructor\bin\Debug\netcoreapp3.1\default_constructor.pdb
+F:\practice .net\default_constructor\default_constructor\obj\Debug\netcoreapp3.1\default_constructor.csprojAssemblyReference.cache
+F:\practice .net\default_constructor\default_constructor\obj\Debug\netcoreapp3.1\default_constructor.AssemblyInfoInputs.cache
+F:\practice .net\default_constructor\default_constructor\obj\Debug\netcoreapp3.1\default_constructor.AssemblyInfo.cs
+F:\practice .net\default_constructor\default_constructor\obj\Debug\netcoreapp3.1\default_constructor.csproj.CoreCompileInputs.cache
+F:\practice .net\default_constructor\default_constructor\obj\Debug\netcoreapp3.1\default_constructor.dll
+F:\practice .net\default_constructor\default_constructor\obj\Debug\netcoreapp3.1\default_constructor.pdb
+F:\practice .net\default_constructor\default_constructor\obj\Debug\netcoreapp3.1\default_constructor.genruntimeconfig.cache
